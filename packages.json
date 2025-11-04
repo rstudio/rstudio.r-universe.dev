@@ -1,0 +1,290 @@
+[
+  {
+    "package": "tinytex",
+    "url": "https://github.com/rstudio/tinytex"
+  },
+  {
+    "package": "bookdown",
+    "url": "https://github.com/rstudio/bookdown"
+  },
+  {
+    "package": "rsconnect",
+    "url": "https://github.com/rstudio/rsconnect"
+  },
+  {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate"
+  },
+  {
+    "package": "promises",
+    "url": "https://github.com/rstudio/promises"
+  },
+  {
+    "package": "renv",
+    "url": "https://github.com/rstudio/renv"
+  },
+  {
+    "package": "pointblank",
+    "url": "https://github.com/rstudio/pointblank"
+  },
+  {
+    "package": "pins",
+    "url": "https://github.com/rstudio/pins-r"
+  },
+  {
+    "package": "vetiver",
+    "url": "https://github.com/rstudio/vetiver-r"
+  },
+  {
+    "package": "packrat",
+    "url": "https://github.com/rstudio/packrat"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny"
+  },
+  {
+    "package": "blogdown",
+    "url": "https://github.com/rstudio/blogdown"
+  },
+  {
+    "package": "gt",
+    "url": "https://github.com/rstudio/gt"
+  },
+  {
+    "package": "swagger",
+    "url": "https://github.com/rstudio/swagger"
+  },
+  {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib"
+  },
+  {
+    "package": "keras3",
+    "url": "https://github.com/rstudio/keras3"
+  },
+  {
+    "package": "rstudioapi",
+    "url": "https://github.com/rstudio/rstudioapi"
+  },
+  {
+    "package": "rticles",
+    "url": "https://github.com/rstudio/rticles"
+  },
+  {
+    "package": "leaflet",
+    "url": "https://github.com/rstudio/leaflet"
+  },
+  {
+    "package": "thematic",
+    "url": "https://github.com/rstudio/thematic"
+  },
+  {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown"
+  },
+  {
+    "package": "leaflet.providers",
+    "url": "https://github.com/rstudio/leaflet.providers"
+  },
+  {
+    "package": "connections",
+    "url": "https://github.com/rstudio/connections"
+  },
+  {
+    "package": "DT",
+    "url": "https://github.com/rstudio/dt"
+  },
+  {
+    "package": "crosstalk",
+    "url": "https://github.com/rstudio/crosstalk"
+  },
+  {
+    "package": "tensorflow",
+    "url": "https://github.com/rstudio/tensorflow"
+  },
+  {
+    "package": "tfprobability",
+    "url": "https://github.com/rstudio/tfprobability"
+  },
+  {
+    "package": "tfruns",
+    "url": "https://github.com/rstudio/tfruns"
+  },
+  {
+    "package": "tfdatasets",
+    "url": "https://github.com/rstudio/tfdatasets"
+  },
+  {
+    "package": "pagedown",
+    "url": "https://github.com/rstudio/pagedown"
+  },
+  {
+    "package": "tfestimators",
+    "url": "https://github.com/rstudio/tfestimators"
+  },
+  {
+    "package": "cloudml",
+    "url": "https://github.com/rstudio/cloudml"
+  },
+  {
+    "package": "httpuv",
+    "url": "https://github.com/rstudio/httpuv"
+  },
+  {
+    "package": "tufte",
+    "url": "https://github.com/rstudio/tufte"
+  },
+  {
+    "package": "plumber",
+    "url": "https://github.com/rstudio/plumber"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass"
+  },
+  {
+    "package": "connectwidgets",
+    "url": "https://github.com/rstudio/connectwidgets"
+  },
+  {
+    "package": "chromote",
+    "url": "https://github.com/rstudio/chromote"
+  },
+  {
+    "package": "webshot2",
+    "url": "https://github.com/rstudio/webshot2"
+  },
+  {
+    "package": "shinydashboard",
+    "url": "https://github.com/rstudio/shinydashboard"
+  },
+  {
+    "package": "miniUI",
+    "url": "https://github.com/rstudio/miniui"
+  },
+  {
+    "package": "shinytest2",
+    "url": "https://github.com/rstudio/shinytest2"
+  },
+  {
+    "package": "shinymeta",
+    "url": "https://github.com/rstudio/shinymeta"
+  },
+  {
+    "package": "websocket",
+    "url": "https://github.com/rstudio/websocket"
+  },
+  {
+    "package": "markdown",
+    "url": "https://github.com/rstudio/markdown"
+  },
+  {
+    "package": "bigD",
+    "url": "https://github.com/rstudio/bigd"
+  },
+  {
+    "package": "blastula",
+    "url": "https://github.com/rstudio/blastula"
+  },
+  {
+    "package": "config",
+    "url": "https://github.com/rstudio/config"
+  },
+  {
+    "package": "revealjs",
+    "url": "https://github.com/rstudio/revealjs"
+  },
+  {
+    "package": "nomnoml",
+    "url": "https://github.com/rstudio/nomnoml"
+  },
+  {
+    "package": "fontawesome",
+    "url": "https://github.com/rstudio/fontawesome"
+  },
+  {
+    "package": "bundle",
+    "url": "https://github.com/rstudio/bundle"
+  },
+  {
+    "package": "pool",
+    "url": "https://github.com/rstudio/pool"
+  },
+  {
+    "package": "sortable",
+    "url": "https://github.com/rstudio/sortable"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr"
+  },
+  {
+    "package": "shinyloadtest",
+    "url": "https://github.com/rstudio/shinyloadtest"
+  },
+  {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools"
+  },
+  {
+    "package": "flexdashboard",
+    "url": "https://github.com/rstudio/flexdashboard"
+  },
+  {
+    "package": "plumbertableau",
+    "url": "https://github.com/rstudio/plumbertableau"
+  },
+  {
+    "package": "juicyjuice",
+    "url": "https://github.com/rstudio/juicyjuice"
+  },
+  {
+    "package": "distill",
+    "url": "https://github.com/rstudio/distill"
+  },
+  {
+    "package": "bsicons",
+    "url": "https://github.com/rstudio/bsicons"
+  },
+  {
+    "package": "shinyvalidate",
+    "url": "https://github.com/rstudio/shinyvalidate"
+  },
+  {
+    "package": "dygraphs",
+    "url": "https://github.com/rstudio/dygraphs"
+  },
+  {
+    "package": "reactlog",
+    "url": "https://github.com/rstudio/reactlog"
+  },
+  {
+    "package": "shinythemes",
+    "url": "https://github.com/rstudio/shinythemes"
+  },
+  {
+    "package": "webdriver",
+    "url": "https://github.com/rstudio/webdriver"
+  },
+  {
+    "package": "tfhub",
+    "url": "https://github.com/rstudio/tfhub"
+  },
+  {
+    "package": "r2d3",
+    "url": "https://github.com/rstudio/r2d3"
+  },
+  {
+    "package": "rscontract",
+    "url": "https://github.com/rstudio/rscontract"
+  },
+  {
+    "package": "graphframes",
+    "url": "https://github.com/rstudio/graphframes"
+  }
+]
