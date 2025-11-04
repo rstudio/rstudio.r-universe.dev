@@ -288,6 +288,10 @@
     "url": "https://github.com/rstudio/graphframes"
   },
   {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
+  },
+  {
     "package": "tblcheck",
     "url": "https://github.com/rstudio/tblcheck",
     "subdir": "pkg-r"
