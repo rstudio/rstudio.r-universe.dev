@@ -289,7 +289,7 @@
   },
   {
     "package": "gradethis",
-    "url": "https://github.com/rstudio/gradethis",
+    "url": "https://github.com/rstudio/gradethis"
   },
   {
     "package": "tblcheck",
