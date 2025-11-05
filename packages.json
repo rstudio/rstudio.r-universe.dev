@@ -293,12 +293,10 @@
   },
   {
     "package": "tblcheck",
-    "url": "https://github.com/rstudio/tblcheck",
-    "subdir": "pkg-r"
+    "url": "https://github.com/rstudio/tblcheck"
   },
   {
     "package": "ggcheck",
-    "url": "https://github.com/rstudio/ggcheck",
-    "subdir": "pkg-r"
+    "url": "https://github.com/rstudio/ggcheck"
   }
 ]
