@@ -298,5 +298,13 @@
   {
     "package": "ggcheck",
     "url": "https://github.com/rstudio/ggcheck"
-  }
+  },
+  {
+    "package": "gradecode",
+    "url": "https://github.com/rstudio/gradecode"
+  },
+  {
+    "package": "academyDatasets",
+    "url": "https://github.com/rstudio/academyDatasets"
+  }    
 ]
